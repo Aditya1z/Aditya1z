@@ -33,6 +33,8 @@
   </a>
 </p>
 
+---
+
 ### 🧰 Tech Stack & Tools
 
 <div align="center">
