@@ -1,4 +1,4 @@
-<h1 align="center">💀 Coding Spells, Breaking Shells</h1>
+<h1 align="center"> Coding Spells, Breaking Shells</h1>
 
 
 <p align="center">
