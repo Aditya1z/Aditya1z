@@ -1,73 +1,79 @@
 <h1 align="center">Aditya Raj</h1>
 <p align="center">
-Building at the intersection of <b>Artificial Intelligence</b> and <b>Cybersecurity</b>
+<b>Artificial Intelligence & Cybersecurity Specialist</b><br>
+Building intelligent systems, securing digital infrastructure, and contributing to open source.
 </p>
 
 ---
 
 ### 👤 About Me
 - 🎓 3rd-year B.Tech Student @ **Sikkim Manipal Institute of Technology**
-- 💡 Interests: **Agentic AI**, **RAG Systems**, **LLMs**, **MCP**, **Generative AI**, **Quantum Computing**
-- 🛡️ Cybersecurity experience with a focus on network security, penetration testing, and automation
-- 🧩 Passion for open-source development and solving real-world problems
-- 🏆 CTF participant & winner, experienced in Red and Blue Team operations
+- 🧠 Interests: **Agentic AI**, **RAG Systems**, **MCP**, **LLMs**, **GenAI**, **Quantum Computing**
+- 🛡️ Cybersecurity expertise in penetration testing, network security, and security automation
+- 📂 Active contributor to **open-source AI and security tools**
+- 🏆 Capture The Flag (CTF) competitor & winner
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-#### **Programming & Scripting**
+### **Programming & Scripting**
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
-#### **AI / ML**
+---
+
+### **Artificial Intelligence & Machine Learning**
 <div>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-F8D800?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-F8D800?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white"/>
 </div>
 
-#### **Cybersecurity**
+---
+
+### **Cybersecurity**
 <div>
 <img src="https://img.shields.io/badge/Nmap-5A5A5A?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
-
-#### **Web & DevOps**
-<div>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-3B7FC4?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/John%20the%20Ripper-333333?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </div>
 
 ---
 
 ### 📌 Areas of Focus
-- **AI & LLMs** – Building agentic AI workflows, RAG-based assistants, MCP tools, fine-tuned LLMs, and GenAI-powered applications  
-- **Cybersecurity** – Penetration testing, network scanning, traffic analysis, and security automation  
-- **Quantum Computing** – Qiskit-based experiments, quantum randomness for cryptography  
-- **Open Source** – Contributing to AI & security-related projects  
+- **AI & LLMs** – Agentic AI workflows, RAG-based assistants, MCP tools, fine-tuned LLMs, GenAI applications  
+- **Cybersecurity** – Penetration testing, vulnerability scanning, packet analysis, and red/blue team ops  
+- **Quantum Computing** – Quantum randomness for security, Qiskit-based cryptographic experiments  
+- **Automation** – Security tooling, AI pipelines, and intelligent agents for data processing
 
 ---
 
 ### 🚀 Selected Projects
-- **[QPassGen](https://github.com/Aditya1z/QPassGen)** – Quantum-secure password generator with Qiskit  
-- **Local AI RAG System** – Offline knowledge assistant using Ollama + LangChain  
-- **Automated Nmap Scanner** – Network scanning automation for security testing  
-- **E-commerce Data Agent** – AI agent for structured web data extraction  
+- **[QPassGen](https://github.com/Aditya1z/QPassGen)** – Quantum-secure password generator using Qiskit  
+- **Local AI RAG Assistant** – Offline LLM-powered knowledge retrieval system  
+- **Automated Nmap Scanner** – Network reconnaissance automation tool  
+- **E-commerce Data Agent** – AI-based structured web scraping and processing tool  
 
 ---
 
