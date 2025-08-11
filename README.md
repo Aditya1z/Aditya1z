@@ -70,8 +70,8 @@
 
 ### 📌 Featured Projects
 - 🔑 **[QPassGen](https://github.com/Aditya1z/QPassGen)** – Quantum-secure password generator using Qiskit  
-- 🤖 AI Agents for e-commerce data extraction & automation  
-- 🛡️ Cybersecurity tools & Nmap automation scripts  
+- 🤖 AI Agents for deep research  
+- 🛡️ Cybersecurity tools
 - 📚 RAG-powered knowledge assistants with local LLMs  
 
 ---
