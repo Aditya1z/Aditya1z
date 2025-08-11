@@ -7,7 +7,7 @@
 <p align="center">
   <b>🛡️ Cybersecurity Wizard | 🧠 Agentic AI Alchemist | 🪄 Open Source Magician</b><br>
   <b>🔍 RAG Architect | ⚡ LLM Tinkerer | 🌀 MCP Builder | 🧪 GenAI Experimenter</b><br>
-  <b>💻 Code Craftsman | 📚 Lifelong Learner | 🎨 Creator of Digital Wonders</b>
+  <b>💻 Code Craftsman | 📚 Lifelong Learner | 🎨 Art, Literature and Music </b>
 </p>
 
 ---
