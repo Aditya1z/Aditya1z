@@ -69,14 +69,6 @@ Building intelligent systems, securing digital infrastructure, and contributing 
 
 ---
 
-### 🚀 Selected Projects
-- **[QPassGen](https://github.com/Aditya1z/QPassGen)** – Quantum-secure password generator using Qiskit  
-- **Local AI RAG Assistant** – Offline LLM-powered knowledge retrieval system  
-- **Automated Nmap Scanner** – Network reconnaissance automation tool  
-- **E-commerce Data Agent** – AI-based structured web scraping and processing tool  
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya1z&show_icons=true&theme=github_dark" height="150"/>
