@@ -7,7 +7,7 @@ Building intelligent systems, securing digital infrastructure, and contributing 
 ---
 
 ### 👤 About Me
-- 🎓 3rd-year B.Tech Student @ **Sikkim Manipal Institute of Technology**
+- 🎓 4th-year B.Tech Student @ **Sikkim Manipal Institute of Technology**
 - 🧠 Interests: **Agentic AI**, **RAG Systems**, **MCP**, **LLMs**, **GenAI**, **Quantum Computing**
 - 🛡️ Cybersecurity expertise in penetration testing, network security, and security automation
 - 📂 Active contributor to **open-source AI and security tools**
